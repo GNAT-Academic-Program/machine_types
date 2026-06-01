@@ -8,6 +8,3 @@ maintainers-logins = ["ohenley"]
 licenses = "MIT OR Apache-2.0 WITH LLVM-exception"
 website = ""
 tags = []
-
-[test]
-runner = "alire"
